@@ -1,4 +1,8 @@
 banana
 strawberry
 grape
+<<<<<<< HEAD
 hasanaras apple
+=======
+watermelon
+>>>>>>> ca3add88f68c6009a315b687ef6edce8c391c81e
