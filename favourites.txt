@@ -1,8 +1,7 @@
 banana
 strawberry
 grape
-<<<<<<< HEAD
 hasanaras apple
-=======
+sena ordu sushi
 watermelon
->>>>>>> ca3add88f68c6009a315b687ef6edce8c391c81e
+
