@@ -8,6 +8,9 @@ Erik
 Sushi
 Pineapple
 Burger
+Makarna
+Tavuk
+Portakal
 
 
 Favorite Movies:
@@ -20,5 +23,6 @@ Cars3
 barbie
 titanic
 hızlı ve öfkeli
+
 
 
