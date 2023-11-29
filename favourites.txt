@@ -1,4 +1,3 @@
-Favorite Foods:
 banana
 strawberry
 grape
@@ -11,18 +10,3 @@ Burger
 Makarna
 Tavuk
 Portakal
-
-
-Favorite Movies:
-A Green Mile
-Inception
-Cars 3
-Cars1
-Cars2
-Cars3
-barbie
-titanic
-hızlı ve öfkeli
-
-
-
