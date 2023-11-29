@@ -1,4 +1,4 @@
-FOODS
+Favorite Foods:
 banana
 strawberry
 grape
@@ -10,7 +10,7 @@ Pineapple
 Burger
 
 
-MOVİES
+Favorite Movies:
 A Green Mile
 Inception
 Cars 3
